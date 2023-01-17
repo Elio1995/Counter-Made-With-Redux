@@ -9,7 +9,7 @@ import { increment,
 
 
 const Counter = () => {
-  const count = useSelector((state)=>state.counttt.count);
+  const count = useSelector((state)=>state.count.count);
   const dispatch = useDispatch();
 
 const [incrementAmount, setIncrementAmount]= useState(0)
