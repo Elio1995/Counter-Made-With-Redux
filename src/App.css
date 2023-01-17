@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.button{
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: 900;
+  border-radius: 5px;
+  border: 1px solid #0df4a4;
+  background-color: #0df4a4;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.buttonPlusMinus{
+  width: 50px;
+}
